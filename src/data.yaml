@@ -1,0 +1,6 @@
+
+train: /home/diwash/Documents/ProjectFinal/Backend/images/train
+val: /home/diwash/Documents/ProjectFinal/Backend/images/val
+
+nc: 3
+names: ['mask_weared_incorrect', 'with_mask', 'without_mask']
